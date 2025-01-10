@@ -4,11 +4,11 @@
 
 Backlog → In Progress → Testing → Done
 
-- Backlog:
-- Ready:
-- In Progress:
-- Testing:
-- Done:
+- Backlog: 
+- Todo: 
+- In Progress: 
+- Testing: 
+- Done: 
 
 ### 2. Limit Work in Progress
 
@@ -16,8 +16,8 @@ Max 2 concurrent tasks per person.
 
 ### 3. Task Policies
 
-- Backlog -> Ready:
-- Ready -> In Progress:
+- Backlog -> Todo:
+- Todo -> In Progress:
 - In Progress -> Testing:
 - Testing -> Done:
 

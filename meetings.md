@@ -4,18 +4,28 @@
 
 ## Summary Table of Meetings
 
-| **Meeting**                 | **Frequency**      | **Duration**  |
-|-----------------------------|--------------------|---------------|
-| Daily Standup               | Daily              | 10 minutes    |
-| Backlog Refinement          | Weekly             | 45 minutes    |
-| Workflow Review             | Weekly             | 30 minutes    |
-| Retrospective               | Every 2 weeks      | 60 minutes    |
-| Planning Meeting (Optional) | Weekly (if needed) | 30–60 minutes |
-| Stakeholder Review          | As needed          | 30–60 minutes |
+| **Meeting**                 | **Frequency**           | **Duration**  |
+|-----------------------------|-------------------------|---------------|
+| Daily Standup               | Daily                   | 10 minutes    |
+| Backlog Refinement          | Weekly (Monday)         | 45 minutes    |
+| Workflow Review             | Weekly   (Monday)       | 30 minutes    |
+| Retrospective               | Every 2 weeks  (Monday) | 60 minutes    |
+| Planning Meeting (Optional) | Weekly (if needed)      | 30–60 minutes |
+| Stakeholder Review          | As needed               | 30–60 minutes |
 
 ---
 
-## 1. Daily Standup (Optional for Kanban)
+---
+
+---
+
+---
+
+---
+
+## Guideline
+
+### 1. Daily Standup (Optional for Kanban)
 
 - **Objective**: Align the team, discuss progress, and surface blockers.
 - **Frequency**: Daily or 3 times per week (if the workflow is stable).
@@ -28,7 +38,7 @@
 
 ---
 
-## 2. Backlog Refinement (Task Preparation)
+### 2. Backlog Refinement (Task Preparation)
 
 - **Objective**: Prioritize tasks, clarify requirements, and ensure readiness.
 - **Frequency**: Weekly or bi-weekly.
@@ -41,7 +51,7 @@
 
 ---
 
-## 3. Workflow Review/Operations Meeting
+### 3. Workflow Review/Operations Meeting
 
 - **Objective**: Review task flow, address bottlenecks, and optimize the process.
 - **Frequency**: Weekly.
@@ -54,7 +64,7 @@
 
 ---
 
-## 4. Retrospective
+### 4. Retrospective
 
 - **Objective**: Reflect on team performance and identify opportunities for improvement.
 - **Frequency**: Every 2–4 weeks or after completing a major milestone.
@@ -67,7 +77,7 @@
 
 ---
 
-## 5. Planning Meeting (Optional)
+### 5. Planning Meeting (Optional)
 
 - **Objective**: Decide which tasks to prioritize for the upcoming week(s).
 - **Frequency**: Weekly (if needed).
@@ -80,7 +90,7 @@
 
 ---
 
-## 6. Stakeholder Review/Showcase
+### 6. Stakeholder Review/Showcase
 
 - **Objective**: Provide stakeholders with updates on progress and gather feedback.
 - **Frequency**: Monthly or after major deliverables.
